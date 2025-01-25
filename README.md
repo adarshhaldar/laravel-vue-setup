@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 ### 2. Install Laravel Dependencies
 ```bash
-composer install
+composer update
 ```
 
 ### 3. Install Frontend Dependencies
